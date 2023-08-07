@@ -88,4 +88,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Happy coding! If you have any questions or need further assistance, feel free to contact me.
 
-*Note: Replace `your-username` in the GitHub repository URL with your actual GitHub username.*
+*Note: Replace `JayCabasag` in the GitHub repository URL with your actual GitHub username.*
